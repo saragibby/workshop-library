@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "intro-to-react",
+  "steps": [
+    {
+      "file": "full/intro-react/index.html",
+      "description": "Update the title of your workshop.",
+      "line": 6
+    },
+    {
+      "file": "full/intro-react/index.html",
+      "description": "Workshop title, customize for your style",
+      "line": 21
+    },
+    {
+      "file": "full/intro-react/index.html",
+      "description": "Add intro of yourself here. ",
+      "line": 61
+    }
+  ]
+}
